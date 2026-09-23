@@ -1,0 +1,16 @@
+# Obsidian local workspace state
+.obsidian/workspace*.json
+
+# Obsidian temporary files
+.trash/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+
+# Codex/local agent runtime state
+.agents/
+.codex/
