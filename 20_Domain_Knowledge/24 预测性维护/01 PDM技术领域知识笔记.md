@@ -1,5 +1,6 @@
 ---
 title: 预测性维护 PDM 技术实现知识
+status: public
 area: domain-knowledge
 kind: technical-detail
 topic: predictive-maintenance-technical

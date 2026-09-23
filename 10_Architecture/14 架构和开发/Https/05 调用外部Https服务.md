@@ -1,5 +1,6 @@
 ---
 title: Java 调用外部 HTTPS 服务与证书信任处理
+status: public
 tags:
   - Java
   - HTTPS

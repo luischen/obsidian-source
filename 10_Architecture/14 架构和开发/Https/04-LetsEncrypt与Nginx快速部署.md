@@ -1,5 +1,6 @@
 ---
 title: Let's Encrypt 与 Nginx HTTPS 快速部署
+status: public
 tags:
   - 运维
   - HTTPS

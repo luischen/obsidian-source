@@ -3,7 +3,7 @@ title: AI 与智能体基础知识沉淀
 aliases:
   - AI 与智能体知识沉淀
 created: 2026-06-16
-status: active
+status: public
 tags:
   - 智能体
   - 知识沉淀

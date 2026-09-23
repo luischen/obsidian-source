@@ -3,7 +3,7 @@ title: 预测性维护 PDM 业务领域知识
 area: domain-knowledge
 kind: domain-overview
 topic: predictive-maintenance
-status: active
+status: public
 children:
   - "[[20_Domain_Knowledge/24 预测性维护/01 PDM技术领域知识笔记|PDM技术领域知识笔记]]"
 upstream:
