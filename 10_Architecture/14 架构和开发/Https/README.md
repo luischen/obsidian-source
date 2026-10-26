@@ -1,6 +1,6 @@
 ---
 title: HTTPS、TLS 与 x509 专题索引
-status: public
+status: private
 tags:
   - 网络
   - 安全
